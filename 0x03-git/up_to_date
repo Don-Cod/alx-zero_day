@@ -1,1 +1,9 @@
 :w newfile<Return>
+
+:r filename<Return>
+
+:w<Return>
+
+:12,35w smallfile<Return>
+
+:w! prevfile<Return>
